@@ -16,7 +16,7 @@ public class testuwu
     public testuwu()
     {
         // initialise instance variables
-        x = 12331111;
+        x = 123311114;
     }
 
     /**
